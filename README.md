@@ -4,7 +4,7 @@
 
 ![CTF Lab](https://img.shields.io/badge/CTF-Lab-brightgreen) ![Security](https://img.shields.io/badge/Security-Education-blue) ![PHP](https://img.shields.io/badge/PHP-Challenges-purple) ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 
-> 💡 **Author's Note**: This is my first cloud project! If you see any flaws or mistakes, please let me know so I can learn and solve them. Feedback is always welcome! 🙏
+> 💡 **Note**: This is my first cloud project! If you see any flaws or mistakes, please let me know so I can learn and solve them. Feedback is always welcome! 🙏
 
 ## 🎯 Overview
 
