@@ -185,9 +185,7 @@ We welcome contributions! Please see [CONTRIBUTING.md] for guidelines.
 - [ ] Docker containerization
 - [ ] API challenges
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
