@@ -4,6 +4,8 @@
 
 ![CTF Lab](https://img.shields.io/badge/CTF-Lab-brightgreen) ![Security](https://img.shields.io/badge/Security-Education-blue) ![PHP](https://img.shields.io/badge/PHP-Challenges-purple) ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 
+> 💡 **Author's Note**: This is my first cloud project! If you see any flaws or mistakes, please let me know so I can learn and solve them. Feedback is always welcome! 🙏
+
 ## 🎯 Overview
 
 This project provides a complete cybersecurity learning environment with vulnerable web applications and custom CTF challenges. Perfect for students, educators, and security professionals looking to practice ethical hacking techniques in a safe, controlled environment.
@@ -23,7 +25,7 @@ This project provides a complete cybersecurity learning environment with vulnera
 ## 🏆 Available Challenges
 
 | Challenge | Difficulty | Points | Vulnerability Type |
-|-----------|------------|--------|--------------------|
+|-----------|------------|--------|-----------------|
 | SQL Injection | Easy | 100 | Authentication Bypass |
 | Stored XSS | Easy | 150 | Cookie Theft |
 | Weak Authentication | Easy | 125 | Password Cracking |
@@ -43,8 +45,8 @@ This project provides a complete cybersecurity learning environment with vulnera
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ctf-cybersecurity-lab.git
-cd ctf-cybersecurity-lab
+git clone https://github.com/Itesh09/Cloud-Cyber-Lab.git
+cd Cloud-Cyber-Lab
 
 # Run automated setup
 sudo ./scripts/setup-lab.sh
