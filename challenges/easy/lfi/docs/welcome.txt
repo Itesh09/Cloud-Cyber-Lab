@@ -1,0 +1,13 @@
+Welcome to the Corporate Document Portal!
+
+This system allows employees to access important company documents and resources.
+
+Available Documents:
+- Employee Handbook (handbook.txt)
+- Company Policies (policies.txt)
+- Emergency Contacts (emergency.txt)
+- IT Support Guide (support.txt)
+
+For technical support, contact IT at support@company.com
+
+Note: This is a secure document viewing system. All file access is logged and monitored.

@@ -1,0 +1,12 @@
+EMPLOYEE HANDBOOK
+==================
+
+Welcome to AcmeCorp! This handbook contains important information about company policies and procedures.
+
+1. Work Hours: Monday-Friday, 9 AM - 5 PM
+2. Dress Code: Business casual
+3. Break Policy: 1 hour lunch, two 15-minute breaks
+4. IT Policy: No personal software installation
+5. Security: Keep passwords confidential
+
+For additional questions, contact HR at hr@company.com

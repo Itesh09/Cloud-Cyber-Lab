@@ -1,0 +1,16 @@
+pbl project sem 5/
+├── apps/                    # Existing vulnerable apps (DVWA, Juice Shop)
+├── challenges/              # 🆕 Custom CTF challenges
+│   ├── easy/
+│   │   └── sql-injection/   # First challenge complete!
+│   │       ├── setup.sql    # Database setup
+│   │       ├── login.php    # Vulnerable app
+│   │       └── reset.sh     # Reset script
+│   ├── medium/              # Ready for Day 2
+│   ├── hard/                # Ready for Day 3+
+│   └── README.md           # Challenge documentation
+├── portal/                  # 🆕 Flag submission system
+│   └── submit.php          # Working flag portal
+├── scripts/                 # 🆕 Automation scripts
+│   └── setup-lab.sh        # Main setup script
+└── docs/                   # Project documentation
